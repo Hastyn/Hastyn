@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hastyn
-- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Machine Learning
-- 📫 How to reach me ...
 
 <!---
 Hastyn/Hastyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
